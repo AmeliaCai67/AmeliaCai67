@@ -20,22 +20,6 @@
 
 两个项目都在快速迭代中，欢迎提 issue 或 PR。
 
-### 之前做过什么
-
-- AI 问答产品的评测体系搭建与权限配置（B 端，已闭环移交）
-- 多智能体工作流的产品设计与落地
-- 从 PRD 到 Nginx 部署的全链路交付
-
-### 技术栈
-
-```
-Product:   PRD / Spec / 数据分析 / 评测集设计 / 权限模型
-Frontend:  HTML / CSS / JavaScript (vanilla)
-Backend:   Python / Nginx / 基础 SQL
-AI:        Prompt Engineering / LLM 评测 / OpenAI API 生态
-Tools:     Git / Obsidian / yazi / vim
-```
-
 ### 一些坚持
 
 - **Spec 先行**：没有文档的需求不值得写代码。
@@ -49,10 +33,6 @@ Tools:     Git / Obsidian / yazi / vim
 - 多智能体系统的失效模式与 Trajectory 优化
 - 儿童交互设计中的"不评判"原则
 - 崩铁翁法罗斯剧情结构（是的，这也是研究）
-
-### 关于这个账号
-
-2024-2025 年的 commit 大多在工作仓库（private），2026 年 7 月离职后开始把个人项目公开。绿格子不多，但每个公开的 repo 都是**亲手搓出来的**。
 
 > "人可能会错，可能会走弯路，但最后总会兜兜转转回到自己想走的路上。"
 
